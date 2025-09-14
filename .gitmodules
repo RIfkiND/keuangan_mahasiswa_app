@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/RIfkiND/keuangan_mahasiswa_app_frontend.git
