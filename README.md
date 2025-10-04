@@ -1,4 +1,4 @@
-# 💸 DormBudget – Money Management for Boarding Students
+# 💸 MoneyMate – Money Management for Boarding Students
 
 DormBudget is a simple and practical money management app designed specifically for boarding students.  
 Track your expenses, set budgets, and build better financial habits — all in one lightweight app.
@@ -18,6 +18,15 @@ Track your expenses, set budgets, and build better financial habits — all in o
 Here’s a preview of DormBudget in action:
 
 ![DormBudget App Screenshot](/public/app.png)
+
+---
+
+## 📌 Project Status
+DormBudget is **currently under development**.  
+- 🛠️ **Frontend** – In progress  
+- 🛠️ **Backend** – In progress  
+
+New features and improvements will be rolled out regularly.
 
 ---
 
